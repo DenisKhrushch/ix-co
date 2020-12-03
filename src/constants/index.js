@@ -1,0 +1,2 @@
+const POSTS_LIMIT = 10;
+export const API_URL = `https://www.socialmediawall.io/api/v1.1/12077/posts/?app_id=f0afca337586413cae1e68689d5f50b5&app_secret=abb10a6046d145b0be5e1d417a7f686b&limit=${POSTS_LIMIT}`;
